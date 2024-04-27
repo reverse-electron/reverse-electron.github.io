@@ -2,16 +2,16 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="80mm"
-   height="80mm"
-   viewBox="0 0 80 80"
+   width="70mm"
+   height="70mm"
+   viewBox="0 0 70 70"
    version="1.1"
    id="svg1"
    inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
    sodipodi:docname="re_qube_bw.svg"
    inkscape:export-filename="re_qube_bw_1080p.png"
-   inkscape:export-xdpi="342.89999"
-   inkscape:export-ydpi="342.89999"
+   inkscape:export-xdpi="391.61325"
+   inkscape:export-ydpi="391.61325"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -28,8 +28,8 @@
      inkscape:document-units="mm"
      showgrid="true"
      inkscape:zoom="1.4022026"
-     inkscape:cx="78.448007"
-     inkscape:cy="225.35973"
+     inkscape:cx="222.50708"
+     inkscape:cy="200.399"
      inkscape:window-width="1920"
      inkscape:window-height="1001"
      inkscape:window-x="-9"
@@ -115,14 +115,14 @@
          x="87.552727"
          y="109.99999" /></text>
     <rect
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.11667;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.04871;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
        id="rect11"
-       width="70.255524"
-       height="70.255524"
-       x="4.7444768"
-       y="4.744472"
-       ry="14.293919"
-       rx="13.798105" />
+       width="68"
+       height="68"
+       x="1"
+       y="1"
+       ry="13.83502"
+       rx="13.355124" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50.8px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.11667;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
@@ -148,29 +148,29 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50.8px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:none;fill-opacity:1;stroke:none;stroke-width:2.11667;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
-       x="-41.960938"
-       y="57.999992"
+       x="-36.960938"
+       y="52.999992"
        id="text16"
        transform="scale(-1,1)"><tspan
          sodipodi:role="line"
          id="tspan16"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#000000;fill-opacity:1;stroke-width:2.11667"
-         x="-41.960938"
-         y="57.999992">R</tspan></text>
+         x="-36.960938"
+         y="52.999992">R</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50.8px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.11667;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
-       x="39.65049"
-       y="57.503899"
+       x="34.65049"
+       y="52.503899"
        id="text17"><tspan
          sodipodi:role="line"
          id="tspan17"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';stroke-width:2.11667"
-         x="39.65049"
-         y="57.503899">e</tspan></text>
+         x="34.65049"
+         y="52.503899">e</tspan></text>
     <g
        id="g22"
-       transform="translate(-0.85811656,6.4432635)">
+       transform="translate(-5.8581166,1.4432634)">
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"

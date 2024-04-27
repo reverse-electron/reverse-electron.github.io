@@ -8,10 +8,10 @@
    version="1.1"
    id="svg1"
    inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
-   sodipodi:docname="re_qube_mini_color.svg"
-   inkscape:export-filename="..\..\img\img_re_qube_mini_color_720p.png"
-   inkscape:export-xdpi="260.30695"
-   inkscape:export-ydpi="260.30695"
+   sodipodi:docname="re_qube_full_color.svg"
+   inkscape:export-filename="img_re_cube_full_color_500p.png"
+   inkscape:export-xdpi="181.31577"
+   inkscape:export-ydpi="181.31577"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -28,8 +28,8 @@
      inkscape:document-units="mm"
      showgrid="true"
      inkscape:zoom="0.99150695"
-     inkscape:cx="177.50758"
-     inkscape:cy="224.91017"
+     inkscape:cx="115.98507"
+     inkscape:cy="281.38986"
      inkscape:window-width="1920"
      inkscape:window-height="1001"
      inkscape:window-x="-9"
@@ -115,14 +115,14 @@
          x="87.552727"
          y="109.99999" /></text>
     <rect
-       style="fill:#007f6e;fill-opacity:1;stroke:none;stroke-width:2.11667;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#007f6e;fill-opacity:1;stroke:none;stroke-width:1.85266;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
        id="rect11"
-       width="70.255524"
-       height="70.255524"
-       x="0"
-       y="0"
-       ry="14.293919"
-       rx="13.798105" />
+       width="70.043549"
+       height="70"
+       x="-0.043551721"
+       y="-9.7699626e-15"
+       ry="0"
+       rx="0" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50.8px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.11667;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
@@ -147,26 +147,53 @@
          y="99.999992" /></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:50.8px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';fill:none;fill-opacity:1;stroke:none;stroke-width:2.11667;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
-       x="-37.216461"
-       y="53.25552"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50.8px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:none;fill-opacity:1;stroke:none;stroke-width:2.11667;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       x="-36.960938"
+       y="52.999992"
        id="text16"
        transform="scale(-1,1)"><tspan
          sodipodi:role="line"
          id="tspan16"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';fill:#ffffff;fill-opacity:1;stroke-width:2.11667"
-         x="-37.216461"
-         y="53.25552">R</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#ffffff;fill-opacity:1;stroke-width:2.11667"
+         x="-36.960938"
+         y="52.999992">R</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50.8px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.11667;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
-       x="34.906013"
-       y="52.759426"
+       x="34.65049"
+       y="52.503899"
        id="text17"><tspan
          sodipodi:role="line"
          id="tspan17"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';fill:#ffffff;fill-opacity:1;stroke-width:2.11667"
-         x="34.906013"
-         y="52.759426">e</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#ffffff;fill-opacity:1;stroke-width:2.11667"
+         x="34.65049"
+         y="52.503899">e</tspan></text>
+    <g
+       id="g22"
+       transform="translate(-5.8581165,1.4432636)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         x="-39.620117"
+         y="62.937988"
+         id="text21"
+         transform="scale(-1,1)"><tspan
+           sodipodi:role="line"
+           id="tspan21"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+           x="-39.620117"
+           y="62.937988">Reverse</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         x="41.379883"
+         y="62.937988"
+         id="text22"><tspan
+           sodipodi:role="line"
+           id="tspan22"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+           x="41.379883"
+           y="62.937988">Electron</tspan></text>
+    </g>
   </g>
 </svg>
